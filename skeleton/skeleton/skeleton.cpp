@@ -8,6 +8,7 @@ int main()
 {
 	printf("skeleton!!!!\n\n\n");
 	printf("commit A skeleton!!!!\n\n\n");
+	printf("commit B skeleton!!!!\n\n\n");
     return 0;
 }
 
