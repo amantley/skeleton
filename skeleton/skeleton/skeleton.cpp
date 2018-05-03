@@ -12,6 +12,7 @@ int main()
 	printf("commit C skeleton!!!!\n\n\n");
 	printf("commit D skeleton!!!!\n\n\n");
 	printf("commit E skeleton!!!!\n\n\n");
+	printf("commit F skeleton!!!!\n\n\n");
     return 0;
 }
 
